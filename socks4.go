@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strconv"
 
-	errors "github.com/bdandy/go-errors"
+	errors "github.com/gnauq3mg6m64rs2n/go-errors"
 	"golang.org/x/net/proxy"
 )
 
